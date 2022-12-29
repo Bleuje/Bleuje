@@ -13,6 +13,4 @@ Here are some examples of [Processing](https://processing.org/) source code for 
 - [**cube flips** (complicated) *(2022)*](https://github.com/Bleuje/cubeflips-animation) / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/674087417259638784)
 - [**recursive rubiks** (complicated) *(2022)*](https://github.com/Bleuje/recursiverubiks)
 
-A lot of them use this [openSimplex noise code](https://gist.github.com/Bleuje/fce86ef35b66c4a2b6a469b27163591e) behind that I put in another Processing tab (implementation by Kurt Spencer)
-
 You can check out my [**gif art tutorials on my website**](https://bleuje.com/tutorials/).
