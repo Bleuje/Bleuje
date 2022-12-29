@@ -2,7 +2,7 @@
 
 I like creative coding and have mainly made animated gifs with Processing since 2017.
 
-Here are some examples of [Processing](https://processing.org/) source code for some gifs, from most recommended to less recommended :
+Here are some examples of [Processing](https://processing.org/) source code for some gifs :
 
 - [**hilbert curve transforms** *(2022)*](https://gist.github.com/Bleuje/0917441d809d5eccf4ddcfc6a5b787d9) / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/684049569049395200)
 - [**sphere wave** *(2022)*](https://gist.github.com/Bleuje/bd3e59266899687c11dbca39f1ffd7ae) / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/686420135511310336)
