@@ -14,3 +14,5 @@ Here are some examples of Processing source code for some gifs, from most recomm
 - [**recursive rubiks** (complicated) *(2022)*](https://github.com/Bleuje/recursiverubiks)
 
 A lot of them use this [openSimplex noise code](https://gist.github.com/Bleuje/fce86ef35b66c4a2b6a469b27163591e) behind that I put in another Processing tab (implementation by Kurt Spencer)
+
+You can check out my [**gif art tutorials on my website**](https://bleuje.com/tutorials/).
