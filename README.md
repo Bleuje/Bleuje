@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like creative coding and am mostly known on social media for animated gifs made with Processing.
+I like creative coding and have mainly made animated gifs with Processing since 2017.
 
 Here are some examples Procecssing source codes for some gifs, from most recommended to less recommended :
 
