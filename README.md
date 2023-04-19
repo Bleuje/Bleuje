@@ -12,5 +12,3 @@ Here are some examples of [Processing](https://processing.org/) source code for 
 - [**numbers spiral**](https://gist.github.com/Bleuje/c80e14b134090e453eefed3ae890a88c) *(2018)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/178317829028)
 - [**heart smoke**](https://gist.github.com/Bleuje/020c562051ca8175e63a176487819b08) *(2019)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/655712545142980608)
 - [**center distortion**](https://gist.github.com/Bleuje/093adf9143e4b84f12f1b14bd8090d8c) *(2019)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/183498773288)
-- [**cube flips**](https://github.com/Bleuje/cubeflips-animation) (complicated) *(2022)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/674087417259638784)
-- [**recursive rubiks**](https://github.com/Bleuje/recursiverubiks) (complicated) *(2022)* / [view on instagram](https://www.instagram.com/p/Cj0kCVJg4uT/)
