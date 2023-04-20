@@ -10,5 +10,3 @@ Here are some examples of [Processing](https://processing.org/) source code for 
 - [**radial collapse**](https://gist.github.com/Bleuje/3889f5ec12645c5d4ffd24cf7f96282a) *(2020)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/190213558568)
 - [**2D fractal sliding squares**](https://gist.github.com/Bleuje/5a71f27afedfb7869daf8c81f7a05367) *(2023)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/714960118674030592)
 - [**numbers spiral**](https://gist.github.com/Bleuje/c80e14b134090e453eefed3ae890a88c) *(2018)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/178317829028)
-- [**heart smoke**](https://gist.github.com/Bleuje/020c562051ca8175e63a176487819b08) *(2019)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/655712545142980608)
-- [**center distortion**](https://gist.github.com/Bleuje/093adf9143e4b84f12f1b14bd8090d8c) *(2019)* / [view gif on tumblr](https://necessary-disorder.tumblr.com/post/183498773288)
